@@ -2,7 +2,7 @@
 
 <div align=center><h1>📖 DL study List</h1></div>
 
-#### 1. 가위바위보 데이터 모델 만들기
+#### 1. ✊🤚✌️ [가위바위보 데이터 모델 만들기](rock_paper_scissors/rock_paper_scissors.ipynb)
 
 
 
